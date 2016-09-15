@@ -10,8 +10,7 @@ Jeannette DuVal
 Proof of concept project for a small demo site created using proper version control via Git and Github, and hosted on Digital Ocean.
 
 ## Screencast Demo
-[VIDEO LINK TO BE POSTED HERE]
-<https://www.youtube.com/watch?v=RoqrD9ZD0N4&feature=youtu.be>
+<http://screencast-o-matic.com/watch/cDQor3j2Ti>
 
 ## Details for teaching team
 No specific instructions, no login required.
