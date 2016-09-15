@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 
 	<title>Jeannette DuVal: Proect 1 - CSCI E-15 Dynamic Web Applications</title>
@@ -13,7 +13,7 @@
 
 	<h2>by Jeannette DuVal</h2>
 
-	<img src="images/jeannette.jpg" width=400>
+	<img src="images/jeannette.jpg" width=400 alt="Jeannette DuVal">
 
 	<h3>Project 2: Title</h3>
 	View website: [link will be published here]
