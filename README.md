@@ -1,13 +1,24 @@
-Class: CSCI E-15 Dynamic Web Applications
+# Project 1 for CSCI E-15 Dynamic Web Applications
 
-Title of the project: Project 1
+## Live URL
+<http://p1.jeannette.nyc/>
 
-Date: September 15, 2016
+## Description
+Proof of concept project for a small demo site created using proper version control via Git and Github, and hosted on Digital Ocean.
 
-Live URL of the project: http://p1.jeannette.nyc/
+## Screencast Demo
+[VIDEO LINK TO BE POSTED HERE]
+<https://www.youtube.com/watch?v=RoqrD9ZD0N4&feature=youtu.be>
 
-Description of the project: Proof of concept project for a small demo site created using proper version control via Git and Github, and hosted on Digital Ocean.
+## Details for teaching team
+No specific instructions, no login required.
 
-Link to your screencast demo: [VIDEO LINK TO BE POSTED HERE]
+The file `word-scrape.php` was used to generate the word list.
 
+## Outside code
 No outside plugins, libraries, packages or outside code were used in the project.
+
+## Project submission date
+September 15, 2016
+
+
