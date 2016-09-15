@@ -13,8 +13,6 @@ Proof of concept project for a small demo site created using proper version cont
 ## Details for teaching team
 No specific instructions, no login required.
 
-The file `word-scrape.php` was used to generate the word list.
-
 ## Outside code
 No outside plugins, libraries, packages or outside code were used in the project.
 
