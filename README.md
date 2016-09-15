@@ -1,5 +1,8 @@
 # Project 1 for CSCI E-15 Dynamic Web Applications
 
+### Author
+Jeannette DuVal
+
 ## Live URL
 <http://p1.jeannette.nyc/>
 
