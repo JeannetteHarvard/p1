@@ -8,13 +8,13 @@
 View website: [link will be published here]
 <br><br>
 Github: [link will be published here]
-<br>
+<br><br>
 
 <h3>Project 3: Title</h3>
 View website: [link will be published here]
 <br><br>
 Github: [link will be published here]
-<br>
+<br><br>
 
 <h3>Project 4: Title</h3>
 View website: [link will be published here]
