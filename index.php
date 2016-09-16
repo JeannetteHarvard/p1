@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-	<title>Jeannette DuVal: Proect 1 - CSCI E-15 Dynamic Web Applications</title>
+	<title>Jeannette DuVal: Project 1 - CSCI E-15 Dynamic Web Applications</title>
 	<meta charset="utf-8">
 
 </head>
